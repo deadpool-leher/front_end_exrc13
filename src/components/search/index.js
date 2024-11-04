@@ -1,5 +1,5 @@
 const search = () => {
-    return <h1> search </h1>;
+    return <h1> Ini Search </h1>;
   };
   
   export default search;

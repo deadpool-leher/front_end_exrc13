@@ -1,11 +1,11 @@
 import React from "react";
-import card from "../card";
+import Card from "../CardInfo";
 
 const Home = (props) => {
   return (
     <div>
       <h1>{props.title}</h1>
-      <card />
+      <Card />
     </div>
   );
 };

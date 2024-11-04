@@ -5,8 +5,8 @@ import Home from "./components/Home";
 const App = () => {
   return (
     <div>
-      <Header title="Ini adalah judul" />
-      <Home title="brevy kecil" />
+      <Header title="Ini adalah Header" />
+      <Home title="Ini adalah home" />
     </div>
   );
 };

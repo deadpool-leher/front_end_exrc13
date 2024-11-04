@@ -1,12 +1,9 @@
-import Hello from "./components/Hello";
-import World from "./components/Word";
+import React from "react";
+import Header from "./components/Header";
 const App = () => {
   return (
-    /* JSX */
     <div>
-      <h1>Hello World</h1>
-      <Hello />
-      <World />
+      <Header />
     </div>
   );
 };

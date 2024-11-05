@@ -1,6 +1,6 @@
-const search = () => {
+const Search = () => {
     return <h1> Ini Search </h1>;
   };
   
-  export default search;
+  export default Search;
   

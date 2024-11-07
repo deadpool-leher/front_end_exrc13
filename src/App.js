@@ -1,14 +1,19 @@
-import React from "react";
 import Header from "./components/Header";
-import Home from "./components/Home";
-import Footer from "./components/Footer"
+import Hero from "./components/Hero";
+import Footer from "./components/Footer";
+import Clients from "./components/Clients";
+import Features from "./components/Features";
+import Pricing from "./components/Pricing";
 
 const App = () => {
   return (
-    <div>
-      <Header title="Ini adalah Header" />
-      <Home title="Ini adalah home" />
-      <Footer title="Ini adalah Footer" />
+    <div className="body-wrap">
+      <Header />
+      <Hero />
+      <Clients />
+      <Features />
+      <Pricing />
+      <Footer />
     </div>
   );
 };

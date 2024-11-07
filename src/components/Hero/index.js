@@ -9,7 +9,7 @@ const Hero = () => {
                 className="mt-0 mb-16 reveal-from-bottom"
                 data-reveal-delay={200}
               >
-                Landing template for startups
+                -template for startups-
               </h1>
               <div className="container-xs">
                 <p

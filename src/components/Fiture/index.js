@@ -24,8 +24,7 @@ const Features = () => {
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Join the system</h4>
                   <p className="m-0 text-sm">
-                    A pseudo-Latin text used in web design, layout, and printing
-                    in place of things to emphasise design.
+                    adakah CR7.
                   </p>
                 </div>
               </div>
@@ -53,8 +52,7 @@ const Features = () => {
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Join the system</h4>
                   <p className="m-0 text-sm">
-                    A pseudo-Latin text used in web design, layout, and printing
-                    in place of things to emphasise design.
+                    testing testing mencoba hal baru.
                   </p>
                 </div>
               </div>
@@ -82,8 +80,8 @@ const Features = () => {
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Join the system</h4>
                   <p className="m-0 text-sm">
-                    A pseudo-Latin text used in web design, layout, and printing
-                    in place of things to emphasise design.
+                    tetap semangat dan tetap bahagia.
+                    
                   </p>
                 </div>
               </div>

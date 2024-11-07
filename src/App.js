@@ -1,9 +1,9 @@
-import Header from "./components/Header";
+import Header from "./components/Head";
 import Hero from "./components/Hero";
 import Footer from "./components/Footer";
-import Clients from "./components/Clients";
-import Features from "./components/Features";
-import Pricing from "./components/Pricing";
+import Clients from "./components/Clien";
+import Features from "./components/Fiture";
+import Pricing from "./components/Pircing";
 
 const App = () => {
   return (
